@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: model-data
+
+server:
+  port: 8080
+
+userApiUrl: https://reqres.in/api
